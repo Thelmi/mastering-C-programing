@@ -1,7 +1,7 @@
 // Intro to pointers 
 // ***************************
 
-#include <stdio.h>
+// #include <stdio.h>
 // int main()
 // {
 // int a = 50;
@@ -108,4 +108,3 @@
 
 // pointer to pointer
 // **********************
-int main()
